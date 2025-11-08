@@ -4,15 +4,15 @@
     text-align: center;
 } */
 
-/* .p{
+.p{
     color:green;
     background:aqua;
 }
 
 #jk{
     font-size:100px ;
-} */
-/* #box2{
+} 
+#box2{
     height:200 px;
     width: 200px;
     background-color:blueviolet;
@@ -20,8 +20,8 @@
     border:1px;
     margin:100px;
 
-} */
-/* div{
+} 
+ div{
     height:200 px;
     width: 200px;
     background-color:red;
@@ -29,9 +29,9 @@
     border:1px;
     margin:100px; 
 
-} */
+}
 
-h4{
+/* h4{
     color:purple;
     text-align:center
 }
@@ -43,4 +43,4 @@ div{
     margin:50px;
     padding:20px;
     background-color:white;
-}
+} */
