@@ -1,8 +1,8 @@
- /* p{
+ p{
     color:blue;
     background:red;
     text-align: center;
-} */
+}
 
 .p{
     color:green;
@@ -31,7 +31,7 @@
 
 }
 
-/* h4{
+h4{
     color:purple;
     text-align:center
 }
@@ -43,4 +43,4 @@ div{
     margin:50px;
     padding:20px;
     background-color:white;
-} */
+}
