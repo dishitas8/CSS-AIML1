@@ -1,0 +1,11 @@
+table th, td{
+    border: 1px double black;
+    /* border-collapse: collapse; */
+    padding:  57px 64 px ;
+    color:#e745ec;
+    font-size: 28px;
+}
+
+body {
+     background-color: rgb(220, 238, 232);
+}

@@ -3,8 +3,13 @@
     height:570px;
     width:64px;
     background-color:gray;
-    /* flex-direction:column-reverse; */
-    flex-wrap:wrap-reverse;
+    flex-direction:row-reverse;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: flex-end;
+    row-gap: 20px;
+    column-gap: 57px;
 }
 
 .item {
@@ -12,4 +17,15 @@
     width:100 px;
     border:1px solid black;
     background-color:plum;
+    /* flex-grow: 1; */
+    flex-shrink: 8;
+
+}
+
+
+.item2 {
+    order: -1;
+    flex-grow: 5;
+    /* flex-shrink: 8; */
+    align-self: flex-end;
 }
