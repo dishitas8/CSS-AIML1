@@ -1,0 +1,25 @@
+h2 {
+    text-align:left;
+}
+
+.case {
+    display:inline-block;
+    text-align:center;
+    width:260px;
+    height:300px;
+    padding-bottom: 57px;
+    margin:8px;
+    font-size:26px;
+}
+
+.case.book {
+    background-color:lightcoral;
+}
+
+.case.headphones {
+    background-color:lightseagreen;
+}
+
+.case.watch {
+    background-color:lightskyblue;
+}

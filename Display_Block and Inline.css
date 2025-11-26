@@ -1,0 +1,14 @@
+h1 {
+    background-color:aqua;
+    display:block;
+}
+
+p {
+ background-color:lightgreen;
+}
+
+a {
+    margin-right: 26px;
+    color:darkolivegreen;
+    display:inline;
+}

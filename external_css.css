@@ -1,0 +1,14 @@
+h1 {
+    color:aquamarine;
+    font-size: 64px;
+    text-align:center;
+}
+
+li {
+     color:rgb(182, 194, 22);
+     font-size: 30px;
+}
+
+body {
+    background-color:rgb(248, 236, 236);
+}
