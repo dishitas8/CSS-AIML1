@@ -5,7 +5,7 @@
     border: 1px dotted purple;
     display: grid;
     grid-template-columns: 100px 100px 100px 100px;
-    grid-template-rows: 100px 100px 100px;
+    grid-template-rows: repeat (3, 100px);
     /* grid-template-areas: 
         "header header header header" 
         "main main . sidebar" 
@@ -14,11 +14,13 @@
         justify-items:center;
         align-items: center;
         justify-content: center;
+        grid-auto-rows: 10px;
+        grid-auto-flow: 10px;
 
 }
 
 .item {
-    background-color: brown;
+    background-color: teal;
     border: 1px solid black;
     color: white;
     text-align: center;
@@ -42,3 +44,5 @@
 .item4 {
     grid-area: footer;
 } */
+
+
