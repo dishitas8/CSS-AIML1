@@ -1,0 +1,36 @@
+body{
+background-color:rgb(206, 238, 206);
+} 
+h1{
+text-align:center;
+color:darkslategrey;
+}
+.container {
+    width:570px;
+    margin:auto;
+    border:2px solid black;
+    padding:26px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+.card {
+    text-align:center;
+    width:300px;
+    color:darkslateblue
+    margin:auto;
+    padding-bottom:26px;
+}
+.circle{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    border-radius:50%;
+    width:80px;
+    height:80px;
+    margin:auto;
+    background-color:lightpink;
+    align-items:center;
+    color:steelblue;
+
+}
